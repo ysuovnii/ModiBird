@@ -7,6 +7,8 @@ This is a beginner-friendly recreation of the classic Flappy Bird game built usi
 ## ⚠️ Important Note
 
 > ✅ This game **only runs properly when the project folder is opened in Visual Studio Code (VS Code)** or any terminal where the working directory is set to the game folder.
+ 
+Create a folder named Elements in the project directory and move all PNG image files into it. This folder is required for loading game assets like backgrounds, sprites, and UI elements.
 
 Running the file directly from outside the folder (e.g. by double-clicking `main.py`) or from online IDEs **will cause asset-loading errors**.
 
