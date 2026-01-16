@@ -1,6 +1,6 @@
-# Flappy Bird 
+# Modi Bird 
 
-This is a beginner-friendly recreation of the classic Flappy Bird game built using Python and Pygame. You control a pixelated bird that must flap through gaps in pipes to survive. Simple mechanics, retro visuals, and a fun arcade experience!
+This is a beginner-friendly recreation of the classic (MODIfied version)Flappy Bird game built using Python and Pygame. You control a pixelated bird that must flap through gaps in pipes to survive. Simple mechanics, retro visuals, and a fun arcade experience!
 
 
 
